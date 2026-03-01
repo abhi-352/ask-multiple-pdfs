@@ -102,3 +102,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+# UI polish commit 2026-03-01
