@@ -64,3 +64,5 @@ This repository is intended for educational purposes and does not accept further
 -------
 The MultiPDF Chat App is released under the [MIT License](https://opensource.org/licenses/MIT).
 Polished README on 2026-03-01
+
+Release notes: v1.0 - 2026-05-21
